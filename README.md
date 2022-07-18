@@ -1,4 +1,4 @@
-<h1>Flame yourself for pure value</h1>
+<h1>Code is everything</h1>
 
 ![image](https://user-images.githubusercontent.com/97383211/175885249-406f8298-3195-43d6-b37e-af2ff7022c1c.png)
 
